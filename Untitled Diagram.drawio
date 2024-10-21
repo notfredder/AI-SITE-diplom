@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.0">
   <diagram name="Page-1" id="-ogPEp8CZYtcU95W3uOY">
-    <mxGraphModel dx="683" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,6 +18,9 @@
         </mxCell>
         <mxCell id="Z0nmChrPg_nv_U5EyM15-5" value="Телеграм бот" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="170" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ftz2wI5kB5Lzzq1UdJnE-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z0nmChrPg_nv_U5EyM15-6" target="ftz2wI5kB5Lzzq1UdJnE-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z0nmChrPg_nv_U5EyM15-6" value="Сайт" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="290" width="80" height="40" as="geometry" />
@@ -42,6 +45,54 @@
         </mxCell>
         <mxCell id="ftz2wI5kB5Lzzq1UdJnE-4" value="Сгенерировать картинку через /image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="224" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ftz2wI5kB5Lzzq1UdJnE-15" value="Спросить сообщением" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="285" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ftz2wI5kB5Lzzq1UdJnE-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ftz2wI5kB5Lzzq1UdJnE-19" target="ftz2wI5kB5Lzzq1UdJnE-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ftz2wI5kB5Lzzq1UdJnE-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ftz2wI5kB5Lzzq1UdJnE-19" target="ftz2wI5kB5Lzzq1UdJnE-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ftz2wI5kB5Lzzq1UdJnE-19" value="Админ" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="495" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ftz2wI5kB5Lzzq1UdJnE-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ftz2wI5kB5Lzzq1UdJnE-21" target="ftz2wI5kB5Lzzq1UdJnE-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ftz2wI5kB5Lzzq1UdJnE-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="ftz2wI5kB5Lzzq1UdJnE-21" target="ftz2wI5kB5Lzzq1UdJnE-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ftz2wI5kB5Lzzq1UdJnE-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="ftz2wI5kB5Lzzq1UdJnE-21" target="ftz2wI5kB5Lzzq1UdJnE-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ftz2wI5kB5Lzzq1UdJnE-21" value="yandex.cloud" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="455" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ftz2wI5kB5Lzzq1UdJnE-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ftz2wI5kB5Lzzq1UdJnE-23" target="ftz2wI5kB5Lzzq1UdJnE-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ftz2wI5kB5Lzzq1UdJnE-23" value="Сайт" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="575" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ftz2wI5kB5Lzzq1UdJnE-27" value="История диалогов в формате &amp;lt;username&amp;gt;_&amp;lt;chat_id&amp;gt;.json" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="375" y="450.75" width="192" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ftz2wI5kB5Lzzq1UdJnE-31" value="??" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="570" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ftz2wI5kB5Lzzq1UdJnE-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ftz2wI5kB5Lzzq1UdJnE-32" target="ftz2wI5kB5Lzzq1UdJnE-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ftz2wI5kB5Lzzq1UdJnE-32" value="Телеграм бот" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="455" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ftz2wI5kB5Lzzq1UdJnE-37" value="Изменение кода" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="375" y="394" width="192" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="ftz2wI5kB5Lzzq1UdJnE-39" value="Мониторинг активности" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="375" y="510" width="192" height="49.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
