@@ -1,5 +1,5 @@
 # Название проекта 
-[telegram bot]([https://drive.google.com/drive/u/2/folders/1I07I8dQoROk5lhioMBhvssZ_CDzsY89K](https://t.me/questionandansweairbot))
+[telegram bot](https://t.me/questionandansweairbot)
 ### Тема проекта:
 Сайт и Телеграм БОТ с ИИ который отвечает на вопросы
 
